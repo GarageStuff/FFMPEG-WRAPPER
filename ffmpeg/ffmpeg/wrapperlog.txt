@@ -1,0 +1,1 @@
+c:\subsonic\transcode\ffmpeg_orig.exe -hwaccel cuda 

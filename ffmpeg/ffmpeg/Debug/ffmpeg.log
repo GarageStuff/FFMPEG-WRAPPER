@@ -1,0 +1,3 @@
+﻿  ffmpeg.cpp
+D:\PROGRAMMING\REPOS\ffmpeg\ffmpeg\ffmpeg.cpp(59,38): warning C4129: '%': unrecognized character escape sequence
+  ffmpeg.vcxproj -> D:\PROGRAMMING\REPOS\ffmpeg\Debug\ffmpeg.exe
